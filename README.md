@@ -1,0 +1,2 @@
+# OpenVINOColabDemo
+OpenVINO ColabDemo
